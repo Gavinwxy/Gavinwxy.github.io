@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-4
+date: 2024-2
 inline: true
 related_posts: false
 ---
 
-One paper is accepeted by IJCAI-ECAI 2022.
+Two papers are accepted by CVPR 2024. 
