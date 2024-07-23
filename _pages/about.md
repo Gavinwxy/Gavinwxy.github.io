@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am currently a fourth-year Ph.D. student at the University of Liverpool, under the supervision of Prof. [Jimin Xiao](https://jiminxiao.github.io). My research focuses on label-efficient learning in the field of computer vision, including
+I am Xiaoyang Wang (王晓阳), currently a fourth-year Ph.D. student at the University of Liverpool, under the supervision of Prof. [Jimin Xiao](https://jiminxiao.github.io). My research focuses on label-efficient learning in the field of computer vision, including
 
 <ul>
     <li>Semantic Segmentation</li>

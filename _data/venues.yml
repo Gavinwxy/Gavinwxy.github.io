@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"CVPR":
+  color: "#2a9d8f"
+
+"ICCV":
+  color: "#e9c46a"
+
+"AAAI":
+  color: "#264653"
+
+"IJCAI":
+  color: "#f4a261"
