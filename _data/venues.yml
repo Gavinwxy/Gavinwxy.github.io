@@ -9,13 +9,13 @@
   color: "#009f36"
 
 "CVPR":
-  color: "#2a9d8f"
+  color: "#072ac8"
 
 "ICCV":
-  color: "#e9c46a"
+  color: "#1e96fc"
 
 "AAAI":
-  color: "#264653"
+  color: "#a2d6f9"
 
 "IJCAI":
-  color: "#f4a261"
+  color: "#ffc600"
