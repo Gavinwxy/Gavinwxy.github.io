@@ -1,6 +1,6 @@
 ---
 layout: post
-date: (24-02)[date:"ym"]
+date: 2024-02
 inline: true
 related_posts: false
 ---
