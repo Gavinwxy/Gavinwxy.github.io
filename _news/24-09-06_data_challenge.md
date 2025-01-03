@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our team wins the 3rd place in the Vision24 challege - One Shot Industrial Defect Segmentation (ECCV2024)
+We win the 3rd place in One Shot Industrial Defect Segmentation Challenge (ECCV2024)!
